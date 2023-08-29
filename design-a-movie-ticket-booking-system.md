@@ -13,7 +13,9 @@
 An online movie ticket booking system facilitates the purchasing of movie tickets to its customers. E-ticketing systems allow customers to browse through movies currently playing and book seats, anywhere and anytime.
 
 <p align="center">
-    <img src="/media-files/movie-ticket-booking-system.png" alt="Movie Ticket Booking System">
+    ![movie-ticket-booking-system](https://github.com/gaikwadmohit/MyMoviePlan/assets/97322025/171d8c90-a8dc-4700-bcb1-0d90a01469c8)
+
+    
     <br />
     Movie Ticket Booking System
 </p>
@@ -57,7 +59,9 @@ Here are the top use cases of the Movie Ticket Booking System:
 Here is the use case diagram of Movie Ticket Booking System:
 
 <p align="center">
-    <img src="/media-files/mtbs-use-case-diagram.svg" alt="Movie Ticket Booking System Use Case Diagram">
+    ![image](https://github.com/gaikwadmohit/MyMoviePlan/assets/97322025/0774b375-2670-485e-a86a-69f86bef2560)
+
+   
     <br />
     Use Case Diagram for Movie Ticket Booking System
 </p>
@@ -80,13 +84,17 @@ Here are the main classes of the Movie Ticket Booking System:
 * **Notification:** Will take care of sending notifications to customers.
 
 <p align="center">
-    <img src="/media-files/mtbs-class-diagram.png" alt="Movie Ticket Booking System Class Diagram">
+   ![mtbs-class-diagram](https://github.com/gaikwadmohit/MyMoviePlan/assets/97322025/b428b54b-34eb-451f-8997-fc7597c4826c)
+ 
+  
     <br />
     Class Diagram for Movie Ticket Booking System
 </p>
 
 <p align="center">
-    <img src="/media-files/mtbs-uml.svg" alt="Movie Ticket Booking System UML">
+    ![image](https://github.com/gaikwadmohit/MyMoviePlan/assets/97322025/fc131afb-f86c-42bf-a9c4-1487074c4ece)
+
+  
     <br />
     UML for Movie Ticket Booking System
 </p>
@@ -96,7 +104,8 @@ Here are the main classes of the Movie Ticket Booking System:
 **Make a booking:** Any customer can perform this activity. Here are the steps to book a ticket for a show:
 
 <p align="center">
-    <img src="/media-files/mtbs-make-booking-activity-diagram.svg" alt="Movie Ticket Booking System Make Booking Activity Diagram">
+    https://raw.githubusercontent.com/tssovi/grokking-the-object-oriented-design-interview/a5d0ab34541d446b2e33254dcab315bdb8aafdfa/media-files/mtbs-make-booking-activity-diagram.svg
+    
     <br />
     Activity Diagram for Movie Ticket Booking System Make Booking
 </p>
@@ -104,7 +113,9 @@ Here are the main classes of the Movie Ticket Booking System:
 **Cancel a booking:** Customer can cancel their bookings. Here are the steps to cancel a booking:
 
 <p align="center">
-    <img src="/media-files/mtbs-cancel-booking-activity-diagram.svg" alt="Movie Ticket Booking System Cancel Booking Activity Diagram">
+    ![image](https://github.com/gaikwadmohit/MyMoviePlan/assets/97322025/3011fd2e-11c5-44b5-bd7e-ffd26fd60ce3)
+
+    
     <br />
     Activity Diagram for Movie Ticket Booking System Cancel Booking
 </p>
